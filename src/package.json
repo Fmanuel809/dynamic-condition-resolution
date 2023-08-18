@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "5.1.6"
+  },
+  "description": "This TypeScript code uses LogicalOperator enum for varied comparisons. evaluateSingleCondition function dynamically evaluates conditions for flexible logic. Supports complex scenarios.",
+  "name": "dynamic-condition-resolution",
+  "version": "0.0.0",
+  "keywords": []
+}
